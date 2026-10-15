@@ -1,4 +1,4 @@
-package com.example.tarea5multimedia.ui.theme
+package com.example.tarea5multimedia.ui.theme.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
