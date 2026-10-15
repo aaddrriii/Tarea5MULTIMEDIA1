@@ -4,7 +4,7 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.example.tarea5multimedia.ElementoHorizontal
+import com.example.tarea5multimedia.ui.theme.Components.ElementoHorizontal
 
 @Composable
 fun PantallaColumn(modifier: Modifier = Modifier) {

@@ -4,7 +4,7 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.example.tarea5multimedia.ElementoVertical
+import com.example.tarea5multimedia.ui.theme.Components.ElementoVertical
 
 @Composable
 fun PantallaRow(modifier: Modifier = Modifier) {

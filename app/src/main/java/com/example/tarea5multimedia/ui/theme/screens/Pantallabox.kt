@@ -5,7 +5,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import com.example.tarea5multimedia.ElementoSuperpuesto
+import com.example.tarea5multimedia.ui.theme.Components.ElementoSuperpuesto
 
 @Composable
 fun PantallaBox(modifier: Modifier = Modifier) {

@@ -1,17 +1,17 @@
-package com.example.tarea5multimedia
+package com.example.tarea5multimedia.ui.theme.Components
 
-import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 @Composable
-fun ElementoHorizontal(
+fun ElementoVertical(
     texto: String,
     modifier: Modifier = Modifier
 ) {
     Text(
         text = texto,
-        modifier = modifier.fillMaxWidth()
+        modifier = modifier.fillMaxHeight()
     )
 }
